@@ -43,3 +43,14 @@ params:
     - name: LinkedIn
       url: https://linkedin.com/in/jonbesga
   subtitle: Jon Besga's blog
+  randomTitles:
+    - "Seven Shadows over Whispering Sands"
+    - "Echoes of the Azure Moon"
+    - "Three Rings of the Ancient Mariner"
+    - "Whispers under the Crimson Sun"
+    - "Frost on the Forgotten Statue"
+    - "Four Whispers in the Silent Grove"
+    - "Echoes beneath the Veiled Star"
+    - "Shadows Dancing on Still Waters"
+    - "Eleven Lights Across the Frozen Expanse"
+    - "Murmurs in the Halls of Time"
